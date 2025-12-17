@@ -248,7 +248,7 @@ After training, the script displays:
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
-
+ 
 1. **Fork the repository**
 2. **Create a feature branch**
    ```bash
